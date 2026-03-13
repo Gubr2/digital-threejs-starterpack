@@ -6,6 +6,7 @@ import * as THREE from 'three'
 /* 
   🌎 Inicializácia scény
     – Do scény následne vkladám jednotlivé objekty
+    
 */
 const scene = new THREE.Scene()
 
